@@ -2,13 +2,14 @@
     "name": "krunker-src",
     "version": "1.0.0",
     "scripts": {
-        "compress": "node compress.js"
+        "compress": "uglifyjs game.js -o game.min.js"
     },
     "author": "wa#3750",
     "license": "LGPL-3.0-or-later",
     "devDependencies": {
         "eslint": "^8.48.0",
         "prettier": "^3.0.2",
-        "remove-indentation": "^4.16.0"
+        "remove-indentation": "^4.16.0",
+        "uglify-js": "^3.17.4"
     }
 }
