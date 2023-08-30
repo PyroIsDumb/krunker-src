@@ -11,7 +11,6 @@
     "devDependencies": {
         "eslint": "^8.48.0",
         "prettier": "^3.0.2",
-        "remove-indentation": "^4.16.0",
         "uglify-js": "^3.17.4"
     }
 }
