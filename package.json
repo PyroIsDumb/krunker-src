@@ -2,7 +2,9 @@
     "name": "krunker-src",
     "version": "1.0.0",
     "scripts": {
-        "compress": "uglifyjs game.js -o game.min.js"
+        "compress": "uglifyjs game.js -o game.min.js",
+        "prettier": "prettier --write game.js",
+        "format": "npm run prettier"
     },
     "author": "wa#3750",
     "license": "LGPL-3.0-or-later",
