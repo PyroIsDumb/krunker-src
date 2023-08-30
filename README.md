@@ -2,6 +2,8 @@
 
 This repository stores the source code of the game [Krunker.io](https://krunker.io/).
 
+Current version: **7.1.7**
+
 ## How to find
 
 - Open [Krunker.io](https://krunker.io/), and open the developer console (F12 or Ctrl+Shift+I)
