@@ -4,7 +4,8 @@
     "scripts": {
         "compress": "uglifyjs game.js -o game.min.js",
         "prettier": "prettier --write game.js",
-        "format": "npm run prettier"
+        "eslint": "eslint --fix game.js",
+        "format": "npm run prettier && npm run eslint"
     },
     "author": "wa#3750",
     "license": "LGPL-3.0-or-later",
