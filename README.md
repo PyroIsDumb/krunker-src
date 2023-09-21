@@ -9,6 +9,7 @@ Current version: **7.1.8**
 - Open [Krunker.io](https://krunker.io/), and open the developer console (F12 or Ctrl+Shift+I)
 - Navigate to the `Network` tab, and type `seek` into the search bar.
 - Refresh the tab, and wait until you see a request that looks like this:
+- ![image](https://github.com/PyroIsDumb/krunker-src/assets/76690969/0397a7d9-5fd2-4f43-908a-24aa99b3c922)
 - You'll see that there is a column called `Initiator`; click on that.
 - Wait for the file to load, right click on the source code, and click `Save as...`
 - Open the file in an editor that supports > 8MB files (Visual Studio Code works fine.)
