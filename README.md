@@ -1,3 +1,5 @@
+# THIS REPO WILL NOT BE UPDATED ANYMORE, THIS SOURCE IS OUTDATED, DO NOT FORK THIS TO MAKE YOUR OWN TOOLS ON THE GAME
+
 # Krunker - Game source
 
 This repository stores the source code of the game [Krunker.io](https://krunker.io/).
